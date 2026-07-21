@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Diana 👋</h1>
+<h1 align="center">¡Hola! Soy Diana ✨</h1>
 
 <h3 align="center">Estudiante de 8° semestre de Ingeniería en Sistemas y Computación</h3>
 
@@ -8,7 +8,7 @@
 
 <br>
 
-## 🚀 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -20,12 +20,7 @@
 
 <br>
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dianaONanyt&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianaONanyt&layout=compact&theme=tokyonight" />
-</p>
+## Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dianaONanyt&theme=tokyonight" />
@@ -33,18 +28,18 @@
 
 <br>
 
-## 🌱 Sobre mí
+## Sobre mí
 
-- 💻 Explorando el desarrollo de soluciones con **Java, SQL y Excel avanzado**
-- 📚 En formación constante como futura ingeniera de sistemas
-- ⚡ Me interesa combinar la tecnología con el análisis de riesgos y procesos organizacionales
+- Explorando el desarrollo de soluciones con **Java, SQL y Excel avanzado**
+- En formación constante como futura ingeniera de sistemas
+- Me interesa combinar la tecnología con el análisis de riesgos y procesos organizacionales
 
 <br>
 
-## 📫 Contáctame
+## Contáctame
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diana-saavedra" target="_blank">
+  <a href="https://www.linkedin.com/in/diana-saavedra-2a45b0405/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/diananyt" target="_blank">
