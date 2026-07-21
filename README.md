@@ -53,5 +53,11 @@
 <br>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=600&lines=COLOMBIA;BOYACA;TUNJA;UPTC" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=dianaONanyt&color=blueviolet&style=flat" alt="profile views" />
 </p>
